@@ -1,0 +1,32 @@
+{
+    "2324": {
+        "id": 2324,
+        "name": "Main Hall",
+        "sort": 0
+    },
+    "2325": {
+        "id": 2325,
+        "name": "Room 221 - Data: From Big to Small",
+        "sort": 1
+    },
+    "2326": {
+        "id": 2326,
+        "name": "Room 232 - Code, APIs, and Things",
+        "sort": 2
+    },
+    "2327": {
+        "id": 2327,
+        "name": "Room 233 - Modern Practices",
+        "sort": 3
+    },
+    "2328": {
+        "id": 2328,
+        "name": "Room 424 - Testing and Devops",
+        "sort": 4
+    },
+    "2329": {
+        "id": 2329,
+        "name": "Room 442 - For Fun and Profit",
+        "sort": 5
+    }
+}

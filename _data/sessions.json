@@ -1,0 +1,698 @@
+{
+    "43457": {
+        "id": "43457",
+        "title": "Unit Testing with JUnit and Eclipse - Basics",
+        "description": "Basics of white box testing, live coding demonstration of JUnit framework with Eclipse IDE. If time allows Mocking with Mockito framework also could be on the menu. ",
+        "startsAt": "2018-09-15T16:15:00",
+        "endsAt": "2018-09-15T17:15:00",
+        "isServiceSession": false,
+        "isPlenumSession": false,
+        "speakers": [
+            "00bc8cd6-45d1-4802-bf48-e3ba8af5a875"
+        ],
+        "categoryItems": [
+            7545,
+            7540
+        ],
+        "questionAnswers": [],
+        "roomId": 2328
+    },
+    "43510": {
+        "id": "43510",
+        "title": "Using MySQL Workbench to Design and Build Databases",
+        "description": "Use MySQL Workbench to design your MySQL database. With the design completed, you can forward engineer the design into SQL code that when run, will generate all of the tables, attributes, indexes and all of the related parts of a well-functioning database. See how to tweak the code so it can run on a Microsoft’s SQL Server.",
+        "startsAt": "2018-09-15T16:15:00",
+        "endsAt": "2018-09-15T17:15:00",
+        "isServiceSession": false,
+        "isPlenumSession": false,
+        "speakers": [
+            "b2dae93f-c9a3-4a9c-9faa-922920203190"
+        ],
+        "categoryItems": [
+            7545,
+            7542
+        ],
+        "questionAnswers": [],
+        "roomId": 2325
+    },
+    "43776": {
+        "id": "43776",
+        "title": "Everything SEO: Strategy, Process, Technical Implementation, Tools, & the Real World",
+        "description": "We dive into 'everything SEO' using a current real-world geographic success.  Want to go from zero to 1000 unique user visits per day?  How do you rank among your competitors?  Want a big salary SEO Strategist job position?  We'll touch on best practices, small modifications to gain big, tools of the trade, analytics, and much more.  ",
+        "startsAt": "2018-09-15T11:00:00",
+        "endsAt": "2018-09-15T12:00:00",
+        "isServiceSession": false,
+        "isPlenumSession": false,
+        "speakers": [
+            "36327dbc-96aa-40ec-9d4b-f4a7cb008203"
+        ],
+        "categoryItems": [
+            7545,
+            7540
+        ],
+        "questionAnswers": [],
+        "roomId": 2329
+    },
+    "43807": {
+        "id": "43807",
+        "title": "Automated Quality Assurance: From Apprentice to Master",
+        "description": "A look into the world of Automated Quality Assurance - what it is, how to achieve it, and pitfalls to avoid. This presentation has something to offer anyone from those curious about AQA to those already in the field. We’ll start by distinguishing between Manual QA (Quality Advocates) and Automated QA (Quality Assurance), followed by how to get started in AQA and how to structure AQA in your organization (Don't Automate the Mess!). Next we dig a little deeper and talk test case management (Scrum is not a Silver Bullet), structuring your codebase for maintainability, and AQA paradigms (Gherkin/Cucumber). Third, we touch on a few common pitfalls of AQA a mature AQA pipeline (Watchman problem) and how to avoid them. Finally, we’ll walk through the various types of AQA testing (Integration, Front-end, Performance) and how to tackle them with AQA. ",
+        "startsAt": "2018-09-15T13:45:00",
+        "endsAt": "2018-09-15T14:45:00",
+        "isServiceSession": false,
+        "isPlenumSession": false,
+        "speakers": [
+            "514911be-4e48-4b0a-b973-5bac6d732e58"
+        ],
+        "categoryItems": [
+            7545,
+            7541
+        ],
+        "questionAnswers": [],
+        "roomId": 2328
+    },
+    "43809": {
+        "id": "43809",
+        "title": "Accessibility Awareness: Empowering Everyone",
+        "description": "Web accessibility is more than programming for screen readers. Learn how placing accessibility first improves your user experience for everyone, enabling people of all backgrounds to accomplish their goals on your site regardless of their abilities. We’ll review some easy ways to evaluate your site’s accessibility, along with a few steps you can take to remove barriers and delight your users.\r\n\r\n“It’s the stairs leading into a building that disable the wheelchair user rather than the wheelchair.”",
+        "startsAt": "2018-09-15T15:30:00",
+        "endsAt": "2018-09-15T16:00:00",
+        "isServiceSession": false,
+        "isPlenumSession": false,
+        "speakers": [
+            "c18dd4c0-e07d-4f0d-9a20-f9f632111891"
+        ],
+        "categoryItems": [
+            7544,
+            7541
+        ],
+        "questionAnswers": [],
+        "roomId": 2327
+    },
+    "43893": {
+        "id": "43893",
+        "title": "For the DotNoobs! Leveling Up  Your C#",
+        "description": "So you have some C# experience but you're still a little green. Chances are you are making common mistakes without realizing it. This session will accelerate your experience level in just one hour by pointing out things you will never do wrong again, and do so in an easy to understand way.\r\nWe'll cover as many mini-topics as we can in 60 minutes, including:\r\n* What a reference type really is and what it means to pass by reference.\r\n* Using HttpClient correctly.\r\n* Async/Await mistakes.\r\n* Exception Handling.\r\n* Handling SqlParameter and the problem with AddWithValue\r\n* Visual Studio features you should use.\r\nAnd more, time permitting !\r\n\r\npsst, even experienced programmers might pick up a thing or two...",
+        "startsAt": "2018-09-15T09:00:00",
+        "endsAt": "2018-09-15T10:00:00",
+        "isServiceSession": false,
+        "isPlenumSession": false,
+        "speakers": [
+            "cb70d1bd-13ab-4a16-abfd-cf48b37ec30d"
+        ],
+        "categoryItems": [
+            7545,
+            7540
+        ],
+        "questionAnswers": [],
+        "roomId": 2326
+    },
+    "44470": {
+        "id": "44470",
+        "title": "Powershell Primer",
+        "description": "Powershell is Microsoft's evolution of the good old DOS command line, now with commands to automate Azure, Office 365, Windows and applications. It slices, it dices, it does DevOps, text processing, REST-APIs calls, SQL database management and much, much more. This session introduces Powershell to newbies, who want to take to next step in automating their world. ",
+        "startsAt": "2018-09-15T13:45:00",
+        "endsAt": "2018-09-15T14:45:00",
+        "isServiceSession": false,
+        "isPlenumSession": false,
+        "speakers": [
+            "f1dc06b1-c3d6-4928-897e-7a2bb66d6476"
+        ],
+        "categoryItems": [
+            7545,
+            7541
+        ],
+        "questionAnswers": [],
+        "roomId": 2327
+    },
+    "44472": {
+        "id": "44472",
+        "title": "How to get a great job  and build a network in a rural market",
+        "description": "Working in Vermont can be challenging and hard for people from outside of the area to find a way in.  Or for students graduating from our local colleges who are so smitten with Vermont (who wouldn’t be?) that they want to stay here after they graduate. Learn tactics and methods to get into great companies as well as understanding the tech community here in the 802.",
+        "startsAt": "2018-09-15T13:45:00",
+        "endsAt": "2018-09-15T14:45:00",
+        "isServiceSession": false,
+        "isPlenumSession": false,
+        "speakers": [
+            "f880bdd0-7272-4c54-be93-4e32ef9fd308"
+        ],
+        "categoryItems": [
+            7545,
+            7540
+        ],
+        "questionAnswers": [],
+        "roomId": 2329
+    },
+    "44859": {
+        "id": "44859",
+        "title": "Bit Banging and Other Fun Programming at the Edge.",
+        "description": "An introduction to sensors, microcontrollers and how they fit into the larger context of the Internet of Things (IoT).  This session will begin with a survey of the various sensors that are available.  I’ll then spend the bulk of the time talking about what microcontrollers are, how programming them differs from desktop/web programming and how they are used to connect to sensors and the network.  We’ll finish off by looking at a demo or two and how this all fits into the grand scheme of the IoT.",
+        "startsAt": "2018-09-15T09:00:00",
+        "endsAt": "2018-09-15T10:00:00",
+        "isServiceSession": false,
+        "isPlenumSession": false,
+        "speakers": [
+            "2fbddcf9-1d92-4959-ae11-d2ed9907d5c9"
+        ],
+        "categoryItems": [
+            7545,
+            7540
+        ],
+        "questionAnswers": [],
+        "roomId": 2329
+    },
+    "46608": {
+        "id": "46608",
+        "title": "WebAssembly and Blazor",
+        "description": "Will we be able to write front end single page apps (SPAs) without using JavaScript? Come and learn what WebAssembly is and how it can be used with the Blazor framework to write SPAs using .NET.",
+        "startsAt": "2018-09-15T15:30:00",
+        "endsAt": "2018-09-15T16:00:00",
+        "isServiceSession": false,
+        "isPlenumSession": false,
+        "speakers": [
+            "43224090-85a3-4048-904f-3ac8c8954085"
+        ],
+        "categoryItems": [
+            7544,
+            7541
+        ],
+        "questionAnswers": [],
+        "roomId": 2326
+    },
+    "56627": {
+        "id": "56627",
+        "title": "Developing ASP.NET Core 2.0 Web APIs for your Web and Mobile Apps",
+        "description": "ASP.NET Core 2.0 is a cross-platform web framework that can be deployed to Windows, macOS, Linux or even to Containers! It is the perfect framework to develop the the Web APIs that drive the hottest web and mobile apps. The key is to have the right architecture to go along with the benefits that ASP.NET Core gives developers. In this , we will look at ASP.NET Core 2.0 Web API and the Hexagonal Architecture to allow your APIs to be efficient and testable.\r\n\r\nBy using the Hex Architecture not only does the development story become easier but your end users get a much more stable API set to consume. The talk will explain and get you started on using these concepts with your ASP.NET Core 2.0 Web API projects.",
+        "startsAt": "2018-09-15T13:45:00",
+        "endsAt": "2018-09-15T14:45:00",
+        "isServiceSession": false,
+        "isPlenumSession": false,
+        "speakers": [
+            "215bbd42-ce3a-4744-af1f-7e5f0f30d620"
+        ],
+        "categoryItems": [
+            7545,
+            7542
+        ],
+        "questionAnswers": [],
+        "roomId": 2326
+    },
+    "56954": {
+        "id": "56954",
+        "title": "Survey of Big Data Infrastructures",
+        "description": "Big data infrastructures have evolved rapidly as computing power has grown and hardware has become less expensive. This session will be a high level overview of popular big data infrastructures and paradigms over the last decade in both academics and industry. Technologies covered will include Spark, Hadoop, distributed relational databases, grid computing, and high performance computing. We will compare and contrast embarrassingly parallel vs distributed memory algorithms and streaming vs batch processing. Finally, the session will cover some of the modern technology options available for various applications.",
+        "startsAt": "2018-09-15T09:00:00",
+        "endsAt": "2018-09-15T10:00:00",
+        "isServiceSession": false,
+        "isPlenumSession": false,
+        "speakers": [
+            "4870cd32-f9a5-492f-a1d5-6aa41a07b0d7"
+        ],
+        "categoryItems": [
+            7545,
+            7540
+        ],
+        "questionAnswers": [],
+        "roomId": 2325
+    },
+    "58430": {
+        "id": "58430",
+        "title": "Real World Introduction To Enterprise Blockchain",
+        "description": "If you’re interested in learning a little bit about Enterprise Blockchain and a real-world use case, you should check this session and see how we are building an enterprise blockchain which can be used to transparently record different types of donations for SharePoint Saturday Puerto Rico. \r\n\r\nOne of the primary design principles of our real-world use case is to demonstrate patterns for Business App integration with other services in the Microsoft Cloud. i.e. SharePoint, Dynamics 365, Teams, etc.\r\n\r\nSee how creative you can get with smart contracts and learn how to use the transparent ledger properties of blockchain to share donation and sponsor information. All the demo code is OOS and will be shared with attendees via GitHub.\r\n",
+        "startsAt": "2018-09-15T09:00:00",
+        "endsAt": "2018-09-15T10:00:00",
+        "isServiceSession": false,
+        "isPlenumSession": false,
+        "speakers": [
+            "ea58cf0c-6271-42bb-9e3a-e39dda302f11"
+        ],
+        "categoryItems": [
+            7545,
+            7542
+        ],
+        "questionAnswers": [],
+        "roomId": 2327
+    },
+    "59050": {
+        "id": "59050",
+        "title": "Semantic release",
+        "description": "Manually releasing new software versions is dangerous. You might forget to test it before releasing, or you might release a platform-specific version, instead of a general one. Moving the release to the CI and automating it is the key to repeatable and robust release process. In this talk I will show how to setup completely automated yet robust release system with semantic versioning for JavaScript using NodeJS.",
+        "startsAt": "2018-09-15T10:15:00",
+        "endsAt": "2018-09-15T10:45:00",
+        "isServiceSession": false,
+        "isPlenumSession": false,
+        "speakers": [
+            "9e6e85d8-9546-4a42-90f2-b206ac7f55b8"
+        ],
+        "categoryItems": [
+            7544,
+            7541
+        ],
+        "questionAnswers": [],
+        "roomId": 2328
+    },
+    "59408": {
+        "id": "59408",
+        "title": "Continuous Integration/Delivery of SQL Databases",
+        "description": "In an attempt to simplify development and deployment we undertook to align the CI/CD pipelines of our applications and our database schemas. This talk will explore how SQL databases were developed and deployed using an existing CI/CD pipeline originally built for web applications. I will show how traditionally challenging areas such parallel development were greatly simplified. I will also discuss the new, arguably greater, challenges we created for ourselves with this experiment.\r\nTechnologies in this talk include: SQL Server, Visual Studio SQL Server Data Tool (SSDT), Data-tier Application Component Packages (DACPACs), NuGet",
+        "startsAt": "2018-09-15T13:00:00",
+        "endsAt": "2018-09-15T13:30:00",
+        "isServiceSession": false,
+        "isPlenumSession": false,
+        "speakers": [
+            "3e34cfb3-2012-432a-b944-14a98afd33b8"
+        ],
+        "categoryItems": [
+            7544,
+            7541
+        ],
+        "questionAnswers": [],
+        "roomId": 2328
+    },
+    "59537": {
+        "id": "59537",
+        "title": "Getting started with Azure Marketplace",
+        "description": "In this session, I will walk thru the process of getting started with Azure Marketplace and publishing Virtual Machine and Web Applications.",
+        "startsAt": "2018-09-15T10:15:00",
+        "endsAt": "2018-09-15T10:45:00",
+        "isServiceSession": false,
+        "isPlenumSession": false,
+        "speakers": [
+            "f2abc8d7-6140-4479-8f1a-a322bd36d4a5"
+        ],
+        "categoryItems": [
+            7544,
+            7541
+        ],
+        "questionAnswers": [],
+        "roomId": 2325
+    },
+    "59572": {
+        "id": "59572",
+        "title": "A Gentle Introduction to ReactJS",
+        "description": "Got framework overload? Join us for a gentle introductory session on using ReactJS. We'll go over the theory behind the framework, and then finish the session by building a small demo site together.",
+        "startsAt": "2018-09-15T11:00:00",
+        "endsAt": "2018-09-15T12:00:00",
+        "isServiceSession": false,
+        "isPlenumSession": false,
+        "speakers": [
+            "393c3111-87ea-4314-b007-6edfa8fa0a63"
+        ],
+        "categoryItems": [
+            7545,
+            7541
+        ],
+        "questionAnswers": [],
+        "roomId": 2326
+    },
+    "60257": {
+        "id": "60257",
+        "title": "Excel Tools for the Global Ingredients Archiving System",
+        "description": "A major undertaking is going on around the world: standardizing the way companies and governmental agencies communicate about pharmaceutical products.  One component of this system is ginas (Global Ingredients Archiving System), a software system that allows users to define the substances used in medicines, foods, veterinary products, etc. with sufficient precision so that people around the world can communicate confidently about these substances, eliminating the errors that come with ambiguity.\r\n\r\nOne component of ginas is a set of tools for Microsoft Excel that allow retrieval of information from a ginas repository into a spreadsheet as well as entry of new information into a repository from a spreadsheet.\r\n\r\nThe tools consist of a C# user interface that communicates with a Java RESTful web service via a JavaScript shim.  Users can create reports by retrieving data to match a query name or identifier; create new worksheets for data entry; and post new data to a server. The new data may be brand new records; new names or identifiers for existing records; amendments to existing outward links and other updates.\r\n\r\nWe will start with an overview of the standardization process, then talk about the ginas system as an implementation of the new standards.   This will set the context the Excel tools, which we'll dissect in detail.  Finally, the lessons learned about Excel add-ins that may be relevant to developers of similar add-ins.",
+        "startsAt": "2018-09-15T16:15:00",
+        "endsAt": "2018-09-15T17:15:00",
+        "isServiceSession": false,
+        "isPlenumSession": false,
+        "speakers": [
+            "db3aca8b-9813-480a-b9da-05614ef6759a"
+        ],
+        "categoryItems": [
+            7545,
+            7541
+        ],
+        "questionAnswers": [],
+        "roomId": 2327
+    },
+    "60842": {
+        "id": "60842",
+        "title": "Enterprise Apps for the Web Platform",
+        "description": "Progressive Web Apps are opening up a whole new world of innovation on the open web platform by providing the reliable, fast, and engaging user experience of a native mobile app, but delivered with the openness and discoverability of a web app. A number of high-profile organizations including Google, Twitter, and The Weather Channel have adopted Progressive Web App technologies. Learn how and why your organization should build a Progressive Web App and how your development team can take advantage of related open web technologies and browser APIs such as service workers, IndexedDB, persistent storage, payments, geolocation, and push notifications. We'll also cover some open source and proprietary technologies that can help you build your first Progressive Web App.",
+        "startsAt": "2018-09-15T10:15:00",
+        "endsAt": "2018-09-15T10:45:00",
+        "isServiceSession": false,
+        "isPlenumSession": false,
+        "speakers": [
+            "8c4f5309-d724-4b11-8934-45d6e16290e3"
+        ],
+        "categoryItems": [
+            7544,
+            7541
+        ],
+        "questionAnswers": [],
+        "roomId": 2326
+    },
+    "60848": {
+        "id": "60848",
+        "title": "Exploring User Mental Models of Data Sharing",
+        "description": "Successful integration of software applications depends critically on appropriate sharing of data.  But how do we know what constitutes “appropriate” data sharing?  By talking to your users, and asking targeted questions to assess their expectations around the addition, modification, and viewing of data, as well as what rules your users believe should govern access to specific data points, you will be able to anticipate and plan for key software architecture decisions.  \r\n\r\nYou will learn how to:\r\n\r\n*Characterize the way your users currently think about data in relation to multiple products \r\n*Establish the way that your users’ tasks could be better supported by alternative underlying data models\r\n*Reveal which users need to see what data and in what circumstances (e.g. permissions)\r\n*Anticipate areas where data sharing is deemed risky by users, and explore potential data verification strategies to mitigate risk\r\n*Investigate user conceptions of data at an enterprise level and resulting implications for data manipulation at the child level",
+        "startsAt": "2018-09-15T10:15:00",
+        "endsAt": "2018-09-15T10:45:00",
+        "isServiceSession": false,
+        "isPlenumSession": false,
+        "speakers": [
+            "f6ace45d-2396-4df6-8310-0c8143241e44"
+        ],
+        "categoryItems": [
+            7544,
+            7540
+        ],
+        "questionAnswers": [],
+        "roomId": 2327
+    },
+    "60860": {
+        "id": "60860",
+        "title": "5 Key Skills & Tools to Instantly Improve Project Success",
+        "description": "A targeted overview of 5 key methods and toolsets to help you manage your projects more effectively, improving quality and project results and making your clients and end-users happier. Attendees will receive project templates, including a project dashboard Excel template, and sample checklists.",
+        "startsAt": "2018-09-15T15:30:00",
+        "endsAt": "2018-09-15T16:00:00",
+        "isServiceSession": false,
+        "isPlenumSession": false,
+        "speakers": [
+            "7fa32c2a-fd8f-4c3e-b553-73dd8d1db91d"
+        ],
+        "categoryItems": [
+            7544,
+            7541
+        ],
+        "questionAnswers": [],
+        "roomId": 2329
+    },
+    "61161": {
+        "id": "61161",
+        "title": "Go API Middleware",
+        "description": "Maximize code re-use with middleware when writing a Go api. In this session I will show how to use the standard Go libraries to construct middleware in a simple api.",
+        "startsAt": "2018-09-15T15:30:00",
+        "endsAt": "2018-09-15T16:00:00",
+        "isServiceSession": false,
+        "isPlenumSession": false,
+        "speakers": [
+            "f90bb35b-2985-4f90-a8ef-3fe118c73afa"
+        ],
+        "categoryItems": [
+            7544,
+            7541
+        ],
+        "questionAnswers": [],
+        "roomId": 2325
+    },
+    "61288": {
+        "id": "61288",
+        "title": "Artificial Intelligence for everyone",
+        "description": "I’m sure you have heard about artificial intelligence because it’s next big thing and all major tech companies are involved in its development. Now you can implement it too directly in all your websites, mobile and desktop apps using Microsoft Cognitive Services. In this session you will get basic knowledge about artificial intelligence, machine learning and their applications, go over all 6 groups of Cognitive Services and see individual APIs available in Azure. We’ll see how to use pre-built and custom services. Also we will concentrate on some details and specifics of Cognitive Services implementation in Xamarin and Xamarin.Forms solutions. In the end, you will see a demo on how using exported model from Custom Vision service create image recognition app.",
+        "startsAt": "2018-09-15T11:00:00",
+        "endsAt": "2018-09-15T12:00:00",
+        "isServiceSession": false,
+        "isPlenumSession": false,
+        "speakers": [
+            "fc2f0537-e9dc-4188-8221-3e7388ac78ed"
+        ],
+        "categoryItems": [
+            7545,
+            7541
+        ],
+        "questionAnswers": [],
+        "roomId": 2327
+    },
+    "61572": {
+        "id": "61572",
+        "title": "Leadership Ethics and Diversity",
+        "description": "Leadership is a fascinating social phenomenon that occurs in all groups of people regardless of geography, culture or nationality. Most young people today aspire to become leaders in school, entertainment, politics or any other area of endeavor. \r\nFor a leader to be continuously effective over time and in different situations, the leader's behavior must vary with the situation. But how do we know if the leader is effective and is making ethical decisions for the organization? In the session I will talk about the ethical issues that leaders face today and provide information to enable a leader to effectively carry out the leadership process.\r\n",
+        "startsAt": "2018-09-15T10:15:00",
+        "endsAt": "2018-09-15T10:45:00",
+        "isServiceSession": false,
+        "isPlenumSession": false,
+        "speakers": [
+            "19feab8f-0a9c-4ba4-ae38-28be647067ff"
+        ],
+        "categoryItems": [
+            7544,
+            7541
+        ],
+        "questionAnswers": [],
+        "roomId": 2329
+    },
+    "61618": {
+        "id": "61618",
+        "title": "Maintaining Investment Grade Technical Debt",
+        "description": "Successful systems continue to evolve through changing features, technologies and developers. Let's discuss how to evaluate changes and impacts on the technical debt of systems. Should we follow Conway's law? Reverse Conway's law? What are some metrics to monitor, so that we don't have to declare technical bankruptcy.",
+        "startsAt": "2018-09-15T11:00:00",
+        "endsAt": "2018-09-15T12:00:00",
+        "isServiceSession": false,
+        "isPlenumSession": false,
+        "speakers": [
+            "76f0c7d3-56ab-4fd4-8abe-4c8178ed8bc7"
+        ],
+        "categoryItems": [
+            7545,
+            7541
+        ],
+        "questionAnswers": [],
+        "roomId": 2328
+    },
+    "61619": {
+        "id": "61619",
+        "title": "Pushing Data to the Cloud and Serving It Up Fast!",
+        "description": "Dealer Dot Com is moving their infrastructure to AWS and needed to make a version of their account (i.e. dealer) dataset available in the cloud.  Requirements: keep it in sync with the on-prem database, deploy in multiple regions and keep the read-latencies down to single digit milliseconds. Beanstalk and Hollow and triggers, oh my!",
+        "startsAt": "2018-09-15T13:00:00",
+        "endsAt": "2018-09-15T13:30:00",
+        "isServiceSession": false,
+        "isPlenumSession": false,
+        "speakers": [
+            "1d0c819e-1319-422d-aa11-10fd00acbdb0"
+        ],
+        "categoryItems": [
+            7544,
+            7541
+        ],
+        "questionAnswers": [],
+        "roomId": 2325
+    },
+    "61632": {
+        "id": "61632",
+        "title": "The Ultimate Stage in Machine Learning",
+        "description": "Machine learning and data science are in popular demand. Predictive model deployment is the part of the machine learning process where the practical results are achieved. Model deployment is the process of making a machine learning model available for generating predictions on new data, known as scoring (or sometimes called inferencing). The deployment used to present big difficulties, as models were typically built in one environment and needed to be deployed in a different one. Often they would need to be re-implemented in a new programming language, that would be very slow and error-prone.\r\nThis talk will cover two open standards that have made the process of model deployment easier: Predictive Model Markup Language (PMML) and Portable Format for Analytics (PFA), both developed by the Data Mining Group (DMG). We'll also talk briefly about deployment options for deep learning models.\r\n",
+        "startsAt": "2018-09-15T13:45:00",
+        "endsAt": "2018-09-15T14:45:00",
+        "isServiceSession": false,
+        "isPlenumSession": false,
+        "speakers": [
+            "01f67d55-1faa-461b-836f-c931a49a9164"
+        ],
+        "categoryItems": [
+            7545,
+            7541
+        ],
+        "questionAnswers": [],
+        "roomId": 2325
+    },
+    "61671": {
+        "id": "61671",
+        "title": "Value Stream Mapping",
+        "description": "Every company delivers value at some level as their primary mission, yet many don't have a clear picture of how the do it and how they can do it better and more efficiently.   This is especially tricky in the rapidly changing world of software development.    We'll walk through why value stream mapping is important and some actual value streams covering some lessons learned and examples of reducing waste and making value delivery more efficient and the primary focus.",
+        "startsAt": "2018-09-15T15:30:00",
+        "endsAt": "2018-09-15T16:00:00",
+        "isServiceSession": false,
+        "isPlenumSession": false,
+        "speakers": [
+            "547929e7-99b4-4ccb-8990-25c2c66ad3cc"
+        ],
+        "categoryItems": [
+            7544,
+            7541
+        ],
+        "questionAnswers": [],
+        "roomId": 2328
+    },
+    "61706": {
+        "id": "61706",
+        "title": "Practical UX & UI for Developers",
+        "description": "As an end user, there's nothing more satisfying than a well crafted design.  As a developer, this often takes knowledge, forethought, and work to achieve.  We'll go over some fundamental design principles and frameworks, and then build some guidelines and strategies for designing exceptional interfaces and experiences.  UI skills are easily transferred across organizations and tech stacks and allow you and your company's products to stand out and deliver value.",
+        "startsAt": "2018-09-15T13:00:00",
+        "endsAt": "2018-09-15T13:30:00",
+        "isServiceSession": false,
+        "isPlenumSession": false,
+        "speakers": [
+            "165e172f-0221-4697-937a-4ba2b667d39b"
+        ],
+        "categoryItems": [
+            7544,
+            7540
+        ],
+        "questionAnswers": [],
+        "roomId": 2327
+    },
+    "61725": {
+        "id": "61725",
+        "title": "Developer’s Guide to WordPress",
+        "description": "A Developers Guide to WordPress\r\nIn this talk we’ll take a peek under the hood at some of the underlying architecture behind the most popular content management system on the planet. We’ll review the database schema and internal APIs, and discuss the pros, cons and caveats to historical decisions that are now “baked in” to WordPress, for better or worse.\r\n\r\nFinally, we’ll look at Gutenberg and upcoming changes to the WordPress ecosystem.",
+        "startsAt": "2018-09-15T16:15:00",
+        "endsAt": "2018-09-15T17:15:00",
+        "isServiceSession": false,
+        "isPlenumSession": false,
+        "speakers": [
+            "7d58def3-8136-4555-80e2-5834ef8d24c7"
+        ],
+        "categoryItems": [
+            7545,
+            7541
+        ],
+        "questionAnswers": [],
+        "roomId": 2329
+    },
+    "61763": {
+        "id": "61763",
+        "title": "Coding In Real Life: Python, 3D Modelling and Printing",
+        "description": "As someone that first started exploring Python for data analytics it was a pleasant surprise to find that the same language can be used for 3D modeling software like Blender, Maya, Poser and Rhino. Translating programing abilities into creating printed objects or virtual models can extend how the coding can be used to make an impact, solve a problem or tell a story in a completely novel way.\r\n\r\nThe talk will cover explorations of geospatial and abstract data represented as 3D models to create new ways of visualizing information including printing incredibly accurate  geospatial Lidar DEM and DSM models at multiple scales and creating abstracted models of complex data in VR environments. And it looks nothing like Zero Cool hacking The Gibson yet….",
+        "startsAt": "2018-09-15T13:00:00",
+        "endsAt": "2018-09-15T13:30:00",
+        "isServiceSession": false,
+        "isPlenumSession": false,
+        "speakers": [
+            "2a1eb302-46ba-4952-873e-8adcabf5399c"
+        ],
+        "categoryItems": [
+            7544,
+            7541
+        ],
+        "questionAnswers": [],
+        "roomId": 2326
+    },
+    "62122": {
+        "id": "62122",
+        "title": "\"Recalculating!\" - Navigating Container Technologies and Azure",
+        "description": "Like Boston streets at the height of the Big Dig, the world of containers can seem a tangle of construction and one-way streets.  Many turns can be taken, but reaching the destination of container adoption can improve your application architecture, deployment, scalability, cost, and more.  In this session, we'll update our navigation systems with the latest maps of container options in and around Azure (Docker, Kubernetes, ACI, AKS, ACR, App Service, etc.) to learn why these roads exist and help you swiftly arrive at success!",
+        "startsAt": "2018-09-15T11:00:00",
+        "endsAt": "2018-09-15T12:00:00",
+        "isServiceSession": false,
+        "isPlenumSession": false,
+        "speakers": [
+            "d806bd8a-0c53-4a4f-8ea2-657ac1dd5d69"
+        ],
+        "categoryItems": [
+            7545,
+            7540
+        ],
+        "questionAnswers": [],
+        "roomId": 2325
+    },
+    "62125": {
+        "id": "62125",
+        "title": "Civic Tech: Meaningful Ways to Use Your Skills",
+        "description": "Opportunities to use your digital skills for social good are everywhere, but it isn't always clear how to get started, or what your involvement would be.  We're going to look at concrete examples of people like you working on things like hurricane relief and social justice reform.  This is exciting and meaningful work – and you can get involved right now.",
+        "startsAt": "2018-09-15T13:00:00",
+        "endsAt": "2018-09-15T13:30:00",
+        "isServiceSession": false,
+        "isPlenumSession": false,
+        "speakers": [
+            "020c690b-685a-4a5d-803e-f45e328988bf",
+            "117957eb-b225-4f97-9850-aa04c429ae43"
+        ],
+        "categoryItems": [
+            7544,
+            7540
+        ],
+        "questionAnswers": [],
+        "roomId": 2329
+    },
+    "63954": {
+        "id": "63954",
+        "title": "Building Serverless Data APIs",
+        "description": "Azure Functions, Microsoft’s serverless offering, allow developers to focus on their code and not be concerned  infrastructure or DevOps. And thanks to a slew of built-in integrations, it's also easy to have your functions get and send data to various services or even be triggered by events in those services. One such integration is with Azure Cosmos DB, the multi-model, globally distributed NoSQL data service. Cosmos DB exposes data as documents that you can access via SQL, JavaScript MongoDB or Cassandra as well as graph and key-value store. In this session, you'll see how easily you can build an API from a set of Azure Functions that interact with Cosmos DB documents and some other services. We’ll go all cross-platform with Visual Studio Code and NodeJS.",
+        "startsAt": "2018-09-15T16:15:00",
+        "endsAt": "2018-09-15T17:15:00",
+        "isServiceSession": false,
+        "isPlenumSession": false,
+        "speakers": [
+            "282a4701-f128-4b1d-bd67-da5d1f8b3eb0"
+        ],
+        "categoryItems": [
+            7545,
+            7542
+        ],
+        "questionAnswers": [],
+        "roomId": 2326
+    },
+    "64037": {
+        "id": "64037",
+        "title": "The Whole Team Approach to Testing in Continuous Delivery",
+        "description": "We've never had time to Test All The Things before releasing updates to production. So how can we feel confident to release updates weekly or even daily with continuous delivery (CD)? Automating regression tests is already a challenge. What about all the other critical testing activities we need to do to make sure our product doesn't turn into a roadblock for customers?\r\nIn this session, Lisa will introduce some new tools and frameworks that will help your team work together to overcome testing challenges and succeed with CD. These include: \r\n* Ways to visualize your CD pipeline so the team can find ways to shorten feedback loops and mitigate risks\r\n* How to use a test suite canvas to discuss what questions each step in your CD pipeline needs to answer, to understand the value each step provides\r\n* How to make sure all essential types of testing are done continually, and how to fit testing into the continuous world. \r\nThere IS a “test” in DevOps! Let’s explore it together.",
+        "startsAt": "2018-09-15T09:00:00",
+        "endsAt": "2018-09-15T10:00:00",
+        "isServiceSession": false,
+        "isPlenumSession": false,
+        "speakers": [
+            "29d505af-541b-404d-9eb5-f1528a6a5645"
+        ],
+        "categoryItems": [
+            7545,
+            7542
+        ],
+        "questionAnswers": [],
+        "roomId": 2328
+    },
+    "bc4f38de-a541-46f1-a89d-defdb4b9e8cd": {
+        "id": "bc4f38de-a541-46f1-a89d-defdb4b9e8cd",
+        "title": "Registration (& Coffee, Tea,  Juice, Pastries)",
+        "description": null,
+        "startsAt": "2018-09-15T08:00:00",
+        "endsAt": "2018-09-15T08:45:00",
+        "isServiceSession": true,
+        "isPlenumSession": true,
+        "speakers": [],
+        "categoryItems": [],
+        "questionAnswers": [],
+        "roomId": 2324
+    },
+    "577d77f3-b763-4822-b8a5-4493bc227ef2": {
+        "id": "577d77f3-b763-4822-b8a5-4493bc227ef2",
+        "title": "Welcome",
+        "description": null,
+        "startsAt": "2018-09-15T08:45:00",
+        "endsAt": "2018-09-15T09:00:00",
+        "isServiceSession": true,
+        "isPlenumSession": true,
+        "speakers": [],
+        "categoryItems": [],
+        "questionAnswers": [],
+        "roomId": 2324
+    },
+    "44b8f2c3-9b72-43f4-883f-66edd8dda422": {
+        "id": "44b8f2c3-9b72-43f4-883f-66edd8dda422",
+        "title": "Lunch",
+        "description": null,
+        "startsAt": "2018-09-15T12:00:00",
+        "endsAt": "2018-09-15T13:00:00",
+        "isServiceSession": true,
+        "isPlenumSession": true,
+        "speakers": [],
+        "categoryItems": [],
+        "questionAnswers": [],
+        "roomId": 2324
+    },
+    "b0002c7c-df8c-45a0-bd13-3e7489c22a95": {
+        "id": "b0002c7c-df8c-45a0-bd13-3e7489c22a95",
+        "title": "Break and Afternoon Snacks",
+        "description": null,
+        "startsAt": "2018-09-15T14:45:00",
+        "endsAt": "2018-09-15T15:15:00",
+        "isServiceSession": true,
+        "isPlenumSession": true,
+        "speakers": [],
+        "categoryItems": [],
+        "questionAnswers": [],
+        "roomId": 2324
+    },
+    "0968e88c-69dd-4658-ab3c-9b301ca4175f": {
+        "id": "0968e88c-69dd-4658-ab3c-9b301ca4175f",
+        "title": "Closing Remarks",
+        "description": null,
+        "startsAt": "2018-09-15T17:15:00",
+        "endsAt": "2018-09-15T17:30:00",
+        "isServiceSession": true,
+        "isPlenumSession": true,
+        "speakers": [],
+        "categoryItems": [],
+        "questionAnswers": [],
+        "roomId": 2324
+    }
+}

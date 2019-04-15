@@ -1,0 +1,31 @@
+---
+layout: page.njk
+title:  "Sessions"
+---
+
+
+{% for roomId, roomSessions in sessionsByRoom %}
+
+    {% set room = rooms[roomId] %}
+
+    <h2> 
+        {{room.name}}
+    </h2>
+
+    {% for session in roomSessions %} 
+
+        <h3 id="{{session.id}}"> {{session.title}} </h3>
+        
+        <h4> 
+        {% for speakerId in session.speakers %}
+            {% set speaker = speakers[speakerId] %}
+            <a href="/speakers/#{{speakerId}}">{{speaker.fullName}}</a>,
+        {% endfor %}
+        </h4>
+
+        <p> {{session.description}} </p>
+
+
+    {% endfor %}
+
+{% endfor %}

@@ -5,7 +5,8 @@
   "main": "index.js",
   "dependencies": {},
   "devDependencies": {
-    "@11ty/eleventy": "^0.8.2"
+    "@11ty/eleventy": "^0.8.2",
+    "node-fetch": "^2.3.0"
   },
   "scripts": {
     "fetch-data": "node _sessionize/fetchData.js",
