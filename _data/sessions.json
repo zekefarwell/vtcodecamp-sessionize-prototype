@@ -15,7 +15,9 @@
             7540
         ],
         "questionAnswers": [],
-        "roomId": 2328
+        "roomId": 2328,
+        "format": "60 minutes",
+        "level": "100 (absolute beginner)"
     },
     "43510": {
         "id": "43510",
@@ -33,7 +35,9 @@
             7542
         ],
         "questionAnswers": [],
-        "roomId": 2325
+        "roomId": 2325,
+        "format": "60 minutes",
+        "level": "300 (pretty darned-experienced)"
     },
     "43776": {
         "id": "43776",
@@ -51,7 +55,9 @@
             7540
         ],
         "questionAnswers": [],
-        "roomId": 2329
+        "roomId": 2329,
+        "format": "60 minutes",
+        "level": "100 (absolute beginner)"
     },
     "43807": {
         "id": "43807",
@@ -69,7 +75,9 @@
             7541
         ],
         "questionAnswers": [],
-        "roomId": 2328
+        "roomId": 2328,
+        "format": "60 minutes",
+        "level": "200 (never stop learning)"
     },
     "43809": {
         "id": "43809",
@@ -87,7 +95,9 @@
             7541
         ],
         "questionAnswers": [],
-        "roomId": 2327
+        "roomId": 2327,
+        "format": "30 minutes",
+        "level": "200 (never stop learning)"
     },
     "43893": {
         "id": "43893",
@@ -105,7 +115,9 @@
             7540
         ],
         "questionAnswers": [],
-        "roomId": 2326
+        "roomId": 2326,
+        "format": "60 minutes",
+        "level": "100 (absolute beginner)"
     },
     "44470": {
         "id": "44470",
@@ -123,7 +135,9 @@
             7541
         ],
         "questionAnswers": [],
-        "roomId": 2327
+        "roomId": 2327,
+        "format": "60 minutes",
+        "level": "200 (never stop learning)"
     },
     "44472": {
         "id": "44472",
@@ -141,7 +155,9 @@
             7540
         ],
         "questionAnswers": [],
-        "roomId": 2329
+        "roomId": 2329,
+        "format": "60 minutes",
+        "level": "100 (absolute beginner)"
     },
     "44859": {
         "id": "44859",
@@ -159,7 +175,9 @@
             7540
         ],
         "questionAnswers": [],
-        "roomId": 2329
+        "roomId": 2329,
+        "format": "60 minutes",
+        "level": "100 (absolute beginner)"
     },
     "46608": {
         "id": "46608",
@@ -177,7 +195,9 @@
             7541
         ],
         "questionAnswers": [],
-        "roomId": 2326
+        "roomId": 2326,
+        "format": "30 minutes",
+        "level": "200 (never stop learning)"
     },
     "56627": {
         "id": "56627",
@@ -195,7 +215,9 @@
             7542
         ],
         "questionAnswers": [],
-        "roomId": 2326
+        "roomId": 2326,
+        "format": "60 minutes",
+        "level": "300 (pretty darned-experienced)"
     },
     "56954": {
         "id": "56954",
@@ -213,7 +235,9 @@
             7540
         ],
         "questionAnswers": [],
-        "roomId": 2325
+        "roomId": 2325,
+        "format": "60 minutes",
+        "level": "100 (absolute beginner)"
     },
     "58430": {
         "id": "58430",
@@ -231,7 +255,9 @@
             7542
         ],
         "questionAnswers": [],
-        "roomId": 2327
+        "roomId": 2327,
+        "format": "60 minutes",
+        "level": "300 (pretty darned-experienced)"
     },
     "59050": {
         "id": "59050",
@@ -249,7 +275,9 @@
             7541
         ],
         "questionAnswers": [],
-        "roomId": 2328
+        "roomId": 2328,
+        "format": "30 minutes",
+        "level": "200 (never stop learning)"
     },
     "59408": {
         "id": "59408",
@@ -267,7 +295,9 @@
             7541
         ],
         "questionAnswers": [],
-        "roomId": 2328
+        "roomId": 2328,
+        "format": "30 minutes",
+        "level": "200 (never stop learning)"
     },
     "59537": {
         "id": "59537",
@@ -285,7 +315,9 @@
             7541
         ],
         "questionAnswers": [],
-        "roomId": 2325
+        "roomId": 2325,
+        "format": "30 minutes",
+        "level": "200 (never stop learning)"
     },
     "59572": {
         "id": "59572",
@@ -303,7 +335,9 @@
             7541
         ],
         "questionAnswers": [],
-        "roomId": 2326
+        "roomId": 2326,
+        "format": "60 minutes",
+        "level": "200 (never stop learning)"
     },
     "60257": {
         "id": "60257",
@@ -321,7 +355,9 @@
             7541
         ],
         "questionAnswers": [],
-        "roomId": 2327
+        "roomId": 2327,
+        "format": "60 minutes",
+        "level": "200 (never stop learning)"
     },
     "60842": {
         "id": "60842",
@@ -339,7 +375,9 @@
             7541
         ],
         "questionAnswers": [],
-        "roomId": 2326
+        "roomId": 2326,
+        "format": "30 minutes",
+        "level": "200 (never stop learning)"
     },
     "60848": {
         "id": "60848",
@@ -357,7 +395,9 @@
             7540
         ],
         "questionAnswers": [],
-        "roomId": 2327
+        "roomId": 2327,
+        "format": "30 minutes",
+        "level": "100 (absolute beginner)"
     },
     "60860": {
         "id": "60860",
@@ -375,7 +415,9 @@
             7541
         ],
         "questionAnswers": [],
-        "roomId": 2329
+        "roomId": 2329,
+        "format": "30 minutes",
+        "level": "200 (never stop learning)"
     },
     "61161": {
         "id": "61161",
@@ -393,7 +435,9 @@
             7541
         ],
         "questionAnswers": [],
-        "roomId": 2325
+        "roomId": 2325,
+        "format": "30 minutes",
+        "level": "200 (never stop learning)"
     },
     "61288": {
         "id": "61288",
@@ -411,7 +455,9 @@
             7541
         ],
         "questionAnswers": [],
-        "roomId": 2327
+        "roomId": 2327,
+        "format": "60 minutes",
+        "level": "200 (never stop learning)"
     },
     "61572": {
         "id": "61572",
@@ -429,7 +475,9 @@
             7541
         ],
         "questionAnswers": [],
-        "roomId": 2329
+        "roomId": 2329,
+        "format": "30 minutes",
+        "level": "200 (never stop learning)"
     },
     "61618": {
         "id": "61618",
@@ -447,7 +495,9 @@
             7541
         ],
         "questionAnswers": [],
-        "roomId": 2328
+        "roomId": 2328,
+        "format": "60 minutes",
+        "level": "200 (never stop learning)"
     },
     "61619": {
         "id": "61619",
@@ -465,7 +515,9 @@
             7541
         ],
         "questionAnswers": [],
-        "roomId": 2325
+        "roomId": 2325,
+        "format": "30 minutes",
+        "level": "200 (never stop learning)"
     },
     "61632": {
         "id": "61632",
@@ -483,7 +535,9 @@
             7541
         ],
         "questionAnswers": [],
-        "roomId": 2325
+        "roomId": 2325,
+        "format": "60 minutes",
+        "level": "200 (never stop learning)"
     },
     "61671": {
         "id": "61671",
@@ -501,7 +555,9 @@
             7541
         ],
         "questionAnswers": [],
-        "roomId": 2328
+        "roomId": 2328,
+        "format": "30 minutes",
+        "level": "200 (never stop learning)"
     },
     "61706": {
         "id": "61706",
@@ -519,7 +575,9 @@
             7540
         ],
         "questionAnswers": [],
-        "roomId": 2327
+        "roomId": 2327,
+        "format": "30 minutes",
+        "level": "100 (absolute beginner)"
     },
     "61725": {
         "id": "61725",
@@ -537,7 +595,9 @@
             7541
         ],
         "questionAnswers": [],
-        "roomId": 2329
+        "roomId": 2329,
+        "format": "60 minutes",
+        "level": "200 (never stop learning)"
     },
     "61763": {
         "id": "61763",
@@ -555,7 +615,9 @@
             7541
         ],
         "questionAnswers": [],
-        "roomId": 2326
+        "roomId": 2326,
+        "format": "30 minutes",
+        "level": "200 (never stop learning)"
     },
     "62122": {
         "id": "62122",
@@ -573,7 +635,9 @@
             7540
         ],
         "questionAnswers": [],
-        "roomId": 2325
+        "roomId": 2325,
+        "format": "60 minutes",
+        "level": "100 (absolute beginner)"
     },
     "62125": {
         "id": "62125",
@@ -592,7 +656,9 @@
             7540
         ],
         "questionAnswers": [],
-        "roomId": 2329
+        "roomId": 2329,
+        "format": "30 minutes",
+        "level": "100 (absolute beginner)"
     },
     "63954": {
         "id": "63954",
@@ -610,7 +676,9 @@
             7542
         ],
         "questionAnswers": [],
-        "roomId": 2326
+        "roomId": 2326,
+        "format": "60 minutes",
+        "level": "300 (pretty darned-experienced)"
     },
     "64037": {
         "id": "64037",
@@ -628,7 +696,9 @@
             7542
         ],
         "questionAnswers": [],
-        "roomId": 2328
+        "roomId": 2328,
+        "format": "60 minutes",
+        "level": "300 (pretty darned-experienced)"
     },
     "bc4f38de-a541-46f1-a89d-defdb4b9e8cd": {
         "id": "bc4f38de-a541-46f1-a89d-defdb4b9e8cd",

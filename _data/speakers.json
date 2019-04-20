@@ -11,7 +11,8 @@
             {
                 "title": "Twitter",
                 "url": "https://twitter.com/AmyChess?lang=en",
-                "linkType": "Twitter"
+                "linkType": "Twitter",
+                "name": "@AmyChess"
             }
         ],
         "sessions": [
@@ -31,7 +32,8 @@
             {
                 "title": "Company Website",
                 "url": "http://www.newgrangeitconsulting.com/",
-                "linkType": "Company_Website"
+                "linkType": "Company_Website",
+                "name": "newgrangeitconsulting.com"
             }
         ],
         "sessions": [
@@ -51,22 +53,26 @@
             {
                 "title": "Twitter",
                 "url": "https://twitter.com/contrivedex",
-                "linkType": "Twitter"
+                "linkType": "Twitter",
+                "name": "@contrivedex"
             },
             {
                 "title": "Blog",
                 "url": "https://contrivedexample.com",
-                "linkType": "Blog"
+                "linkType": "Blog",
+                "name": "contrivedexample.com"
             },
             {
                 "title": "Company Website",
                 "url": "https://contrivedexample.com",
-                "linkType": "Company_Website"
+                "linkType": "Company_Website",
+                "name": "contrivedexample.com"
             },
             {
                 "title": "LinkedIn",
                 "url": "https://www.linkedin.com/in/contrivedexample",
-                "linkType": "LinkedIn"
+                "linkType": "LinkedIn",
+                "name": "LinkedIn"
             }
         ],
         "sessions": [
@@ -86,17 +92,20 @@
             {
                 "title": "Twitter",
                 "url": "https://twitter.com/BradleyHolt",
-                "linkType": "Twitter"
+                "linkType": "Twitter",
+                "name": "@BradleyHolt"
             },
             {
                 "title": "Blog",
                 "url": "https://medium.com/@BradleyHolt",
-                "linkType": "Blog"
+                "linkType": "Blog",
+                "name": "medium.com"
             },
             {
                 "title": "Company Website",
                 "url": "http://codait.org/",
-                "linkType": "Company_Website"
+                "linkType": "Company_Website",
+                "name": "codait.org"
             }
         ],
         "sessions": [
@@ -130,17 +139,20 @@
             {
                 "title": "Twitter",
                 "url": "https://twitter.com/chrisbowen",
-                "linkType": "Twitter"
+                "linkType": "Twitter",
+                "name": "@chrisbowen"
             },
             {
                 "title": "LinkedIn",
                 "url": "https://www.linkedin.com/in/cbowen/",
-                "linkType": "LinkedIn"
+                "linkType": "LinkedIn",
+                "name": "LinkedIn"
             },
             {
                 "title": "Company Website",
                 "url": "https://www.microsoft.com",
-                "linkType": "Company_Website"
+                "linkType": "Company_Website",
+                "name": "microsoft.com"
             }
         ],
         "sessions": [
@@ -160,22 +172,26 @@
             {
                 "title": "Twitter",
                 "url": "https://twitter.com/cwoodruff",
-                "linkType": "Twitter"
+                "linkType": "Twitter",
+                "name": "@cwoodruff"
             },
             {
                 "title": "LinkedIn",
                 "url": "https://www.linkedin.com/in/chriswoodruff/",
-                "linkType": "LinkedIn"
+                "linkType": "LinkedIn",
+                "name": "LinkedIn"
             },
             {
                 "title": "Blog",
                 "url": "http://www.chriswoodruff.com/blog/",
-                "linkType": "Blog"
+                "linkType": "Blog",
+                "name": "chriswoodruff.com"
             },
             {
                 "title": "Company Website",
                 "url": "https://www.jetbrains.com/",
-                "linkType": "Company_Website"
+                "linkType": "Company_Website",
+                "name": "jetbrains.com"
             }
         ],
         "sessions": [
@@ -195,17 +211,20 @@
             {
                 "title": "Twitter",
                 "url": "https://twitter.com/fhilton",
-                "linkType": "Twitter"
+                "linkType": "Twitter",
+                "name": "@fhilton"
             },
             {
                 "title": "Blog",
                 "url": "http://www.floydhilton.com/",
-                "linkType": "Blog"
+                "linkType": "Blog",
+                "name": "floydhilton.com"
             },
             {
                 "title": "Company Website",
                 "url": "http://www.tacomasoftware.com/",
-                "linkType": "Company_Website"
+                "linkType": "Company_Website",
+                "name": "tacomasoftware.com"
             }
         ],
         "sessions": [
@@ -225,7 +244,8 @@
             {
                 "title": "Company Website",
                 "url": "http://www.champlain.edu",
-                "linkType": "Company_Website"
+                "linkType": "Company_Website",
+                "name": "champlain.edu"
             }
         ],
         "sessions": [
@@ -245,22 +265,26 @@
             {
                 "title": "Twitter",
                 "url": "https://twitter.com/bahmutov",
-                "linkType": "Twitter"
+                "linkType": "Twitter",
+                "name": "@bahmutov"
             },
             {
                 "title": "LinkedIn",
                 "url": "https://www.linkedin.com/in/bahmutov/",
-                "linkType": "LinkedIn"
+                "linkType": "LinkedIn",
+                "name": "LinkedIn"
             },
             {
                 "title": "Blog",
                 "url": "https://glebbahmutov.com/blog/",
-                "linkType": "Blog"
+                "linkType": "Blog",
+                "name": "glebbahmutov.com"
             },
             {
                 "title": "Company Website",
                 "url": "https://www.cypress.io/",
-                "linkType": "Company_Website"
+                "linkType": "Company_Website",
+                "name": "cypress.io"
             }
         ],
         "sessions": [
@@ -308,12 +332,14 @@
             {
                 "title": "Twitter",
                 "url": "https://twitter.com/joshleecreates",
-                "linkType": "Twitter"
+                "linkType": "Twitter",
+                "name": "@joshleecreates"
             },
             {
                 "title": "Blog",
                 "url": "https://blog.joshuamlee.com",
-                "linkType": "Blog"
+                "linkType": "Blog",
+                "name": "blog.joshuamlee.com"
             }
         ],
         "sessions": [
@@ -333,17 +359,20 @@
             {
                 "title": "Twitter",
                 "url": "http://twitter.com/julielerman",
-                "linkType": "Twitter"
+                "linkType": "Twitter",
+                "name": "@julielerman"
             },
             {
                 "title": "Blog",
                 "url": "http://thedatafarm.com/blog",
-                "linkType": "Blog"
+                "linkType": "Blog",
+                "name": "thedatafarm.com"
             },
             {
                 "title": "Company Website",
                 "url": "http://thedatafarm.com",
-                "linkType": "Company_Website"
+                "linkType": "Company_Website",
+                "name": "thedatafarm.com"
             }
         ],
         "sessions": [
@@ -377,7 +406,8 @@
             {
                 "title": "Company Website",
                 "url": "http://kendallfortney.com/",
-                "linkType": "Company_Website"
+                "linkType": "Company_Website",
+                "name": "kendallfortney.com"
             }
         ],
         "sessions": [
@@ -397,12 +427,14 @@
             {
                 "title": "Twitter",
                 "url": "https://twitter.com/QualityNinja",
-                "linkType": "Twitter"
+                "linkType": "Twitter",
+                "name": "@QualityNinja"
             },
             {
                 "title": "Company Website",
                 "url": "https://www.uvmhealth.org/Pages/home.aspx",
-                "linkType": "Company_Website"
+                "linkType": "Company_Website",
+                "name": "uvmhealth.org"
             }
         ],
         "sessions": [
@@ -422,17 +454,20 @@
             {
                 "title": "Twitter",
                 "url": "https://twitter.com/KyleMitBTV",
-                "linkType": "Twitter"
+                "linkType": "Twitter",
+                "name": "@KyleMitBTV"
             },
             {
                 "title": "Blog",
                 "url": "http://www.codingeverything.com/",
-                "linkType": "Blog"
+                "linkType": "Blog",
+                "name": "codingeverything.com"
             },
             {
                 "title": "Company Website",
                 "url": "http://humanresources.vermont.gov/",
-                "linkType": "Company_Website"
+                "linkType": "Company_Website",
+                "name": "humanresources.vermont.gov"
             }
         ],
         "sessions": [
@@ -452,17 +487,20 @@
             {
                 "title": "Twitter",
                 "url": "https://twitter.com/lkeyes70",
-                "linkType": "Twitter"
+                "linkType": "Twitter",
+                "name": "@lkeyes70"
             },
             {
                 "title": "Blog",
                 "url": "http://www.techfornonprofits.com",
-                "linkType": "Blog"
+                "linkType": "Blog",
+                "name": "techfornonprofits.com"
             },
             {
                 "title": "Company Website",
                 "url": "http://www.tetratech.com/en/international-development",
-                "linkType": "Company_Website"
+                "linkType": "Company_Website",
+                "name": "tetratech.com"
             }
         ],
         "sessions": [
@@ -482,12 +520,14 @@
             {
                 "title": "Twitter",
                 "url": "https://twitter.com/lifayt",
-                "linkType": "Twitter"
+                "linkType": "Twitter",
+                "name": "@lifayt"
             },
             {
                 "title": "Blog",
                 "url": "https://twitter.com/lifayt",
-                "linkType": "Blog"
+                "linkType": "Blog",
+                "name": "twitter.com"
             }
         ],
         "sessions": [
@@ -535,12 +575,14 @@
             {
                 "title": "Twitter",
                 "url": "https://twitter.com/UsabilityKitty",
-                "linkType": "Twitter"
+                "linkType": "Twitter",
+                "name": "@UsabilityKitty"
             },
             {
                 "title": "Blog",
                 "url": "http://www.usabilitykitty.com/",
-                "linkType": "Blog"
+                "linkType": "Blog",
+                "name": "usabilitykitty.com"
             }
         ],
         "sessions": [
@@ -560,17 +602,20 @@
             {
                 "title": "Twitter",
                 "url": "https://twitter.com/CodeForBTV",
-                "linkType": "Twitter"
+                "linkType": "Twitter",
+                "name": "@CodeForBTV"
             },
             {
                 "title": "Blog",
                 "url": "http://codeforbtv.org/blog",
-                "linkType": "Blog"
+                "linkType": "Blog",
+                "name": "codeforbtv.org"
             },
             {
                 "title": "Company Website",
                 "url": "http://codeforbtv.org",
-                "linkType": "Company_Website"
+                "linkType": "Company_Website",
+                "name": "codeforbtv.org"
             }
         ],
         "sessions": [
@@ -590,7 +635,8 @@
             {
                 "title": "Company Website",
                 "url": "https://thinkscience.us",
-                "linkType": "Company_Website"
+                "linkType": "Company_Website",
+                "name": "thinkscience.us"
             }
         ],
         "sessions": [
@@ -610,17 +656,20 @@
             {
                 "title": "Twitter",
                 "url": "https://twitter.com/mkgungor",
-                "linkType": "Twitter"
+                "linkType": "Twitter",
+                "name": "@mkgungor"
             },
             {
                 "title": "Blog",
                 "url": "http://mkgungor.com",
-                "linkType": "Blog"
+                "linkType": "Blog",
+                "name": "mkgungor.com"
             },
             {
                 "title": "Company Website",
                 "url": "https://www.champlain.edu/",
-                "linkType": "Company_Website"
+                "linkType": "Company_Website",
+                "name": "champlain.edu"
             }
         ],
         "sessions": [
@@ -640,22 +689,26 @@
             {
                 "title": "Twitter",
                 "url": "http://www.twitter.com/pswider",
-                "linkType": "Twitter"
+                "linkType": "Twitter",
+                "name": "@pswider"
             },
             {
                 "title": "Blog",
                 "url": "http://www.paulswider.com",
-                "linkType": "Blog"
+                "linkType": "Blog",
+                "name": "paulswider.com"
             },
             {
                 "title": "Company Website",
                 "url": "http://www.realactivity.io",
-                "linkType": "Company_Website"
+                "linkType": "Company_Website",
+                "name": "realactivity.io"
             },
             {
                 "title": "LinkedIn",
                 "url": "https://www.linkedin.com/in/pswider/",
-                "linkType": "LinkedIn"
+                "linkType": "LinkedIn",
+                "name": "LinkedIn"
             }
         ],
         "sessions": [
@@ -675,7 +728,8 @@
             {
                 "title": "Twitter",
                 "url": "https://twitter.com/twinsenf1",
-                "linkType": "Twitter"
+                "linkType": "Twitter",
+                "name": "@twinsenf1"
             }
         ],
         "sessions": [
@@ -709,7 +763,8 @@
             {
                 "title": "Twitter",
                 "url": "https://twitter.com/GreenMtnComp",
-                "linkType": "Twitter"
+                "linkType": "Twitter",
+                "name": "@GreenMtnComp"
             }
         ],
         "sessions": [
@@ -729,7 +784,8 @@
             {
                 "title": "Blog",
                 "url": "https://owlfeatherautomation.com/",
-                "linkType": "Blog"
+                "linkType": "Blog",
+                "name": "owlfeatherautomation.com"
             }
         ],
         "sessions": [
@@ -749,7 +805,8 @@
             {
                 "title": "Company Website",
                 "url": "http://ibm.com",
-                "linkType": "Company_Website"
+                "linkType": "Company_Website",
+                "name": "ibm.com"
             }
         ],
         "sessions": [
@@ -769,7 +826,8 @@
             {
                 "title": "Company Website",
                 "url": "https://mywebgrocer.com",
-                "linkType": "Company_Website"
+                "linkType": "Company_Website",
+                "name": "mywebgrocer.com"
             }
         ],
         "sessions": [
@@ -789,17 +847,20 @@
             {
                 "title": "Twitter",
                 "url": "https://twitter.com/nhcloud",
-                "linkType": "Twitter"
+                "linkType": "Twitter",
+                "name": "@nhcloud"
             },
             {
                 "title": "Blog",
                 "url": "https://cloudycode.wordpress.com/",
-                "linkType": "Blog"
+                "linkType": "Blog",
+                "name": "cloudycode.wordpress.com"
             },
             {
                 "title": "LinkedIn",
                 "url": "https://www.linkedin.com/in/udair/",
-                "linkType": "LinkedIn"
+                "linkType": "LinkedIn",
+                "name": "LinkedIn"
             }
         ],
         "sessions": [
@@ -819,17 +880,26 @@
             {
                 "title": "Twitter",
                 "url": "https://twitter.com/breakpointv16",
-                "linkType": "Twitter"
+                "linkType": "Twitter",
+                "name": "@breakpointv16"
             },
             {
                 "title": "Company Website",
                 "url": "https://www.rightpoint.com/",
-                "linkType": "Company_Website"
+                "linkType": "Company_Website",
+                "name": "rightpoint.com"
             },
             {
                 "title": "LinkedIn",
                 "url": "https://www.linkedin.com/in/vkolesnikova/",
-                "linkType": "LinkedIn"
+                "linkType": "LinkedIn",
+                "name": "LinkedIn"
+            },
+            {
+                "title": "Blog",
+                "url": "https://veronika.dev",
+                "linkType": "Blog",
+                "name": "veronika.dev"
             }
         ],
         "sessions": [

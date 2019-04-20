@@ -3,16 +3,12 @@ layout: page.njk
 title:  "Speakers"
 ---
 
-<p>what the fuck is going on</p>
-
 {% for id, speaker in speakers %} 
 
     <h3 id="{{speaker.id}}"> {{speaker.fullName}} </h3>
     <h4> {{speaker.tagLine}} </h4>
     {% for link in speaker.links %}
-        <a href="{{link.url}}">
-            {{link.title}}
-        </a> - 
+        <a href="{{link.url}}">{{link.name}}</a> - 
     {% endfor %}
 
     <p> {{speaker.bio}} </p>
