@@ -2,6 +2,10 @@
 
 module.exports = function(data) {
     return JSON.stringify({
-        speakerss: data.speakers,
+        rooms: data.rooms,
+        schedule: data.schedule,
+        sessions: data.sessions,
+        sessionsByRoom: data.sessionsByRoom,
+        speakers: data.speakers,
     });
 };

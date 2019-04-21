@@ -1,0 +1,55 @@
+<!doctype html>
+<html>
+
+<head>
+    <meta name="viewport" content="initial-scale=1.0, width=device-width" > 
+    <title>{{title}}</title>
+    <style>
+
+        body {
+            margin: 2rem auto;
+            max-width: 1200px; 
+            padding: 2rem;
+            font-family: sans-serif;
+        }
+        h2, h3 {
+            margin-top: 4rem;
+        }
+        table, th, td {
+            border: 1px solid gray;
+            border-collapse: collapse;
+        }
+        th, td {
+            padding: 1rem;
+        }
+        .td-title, .td-subtitle {
+            display: block;
+            padding: 3px;
+        }
+        .td-subtitle {
+            font-size: smaller;
+        }
+        .home-link, .menu {
+            font-size: larger;
+        }
+        .menu li {
+            line-height: 2rem;
+        }
+
+    </style>
+</head>
+
+<body>
+
+
+    <h1>{{title}}</h1>
+
+    <div>
+        <a class="home-link" href="/">Home</a>
+    </div> 
+
+    {{ content | safe }}
+
+</body>
+
+</html>

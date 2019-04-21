@@ -1,0 +1,45 @@
+---
+layout: "schedule.njk"
+title: "Schedule"
+---
+
+<table>
+
+    <thead>
+        <tr>
+
+        {% for roomId, cell in schedule.head %}
+            <th>
+                <div class='td-title'>{{cell.title}}</div>
+            </th>
+        {% endfor %}
+
+        </tr>
+    </thead>
+    <tbody>
+
+    {% for timeslotId, row in schedule.body %}
+        <tr>
+        {% for roomId, cell in row %} 
+            {% if cell.type == "heading" %}
+                <th>
+                    <div class='td-title'>{{cell.title}}</div>
+                </th>
+            {% elif cell.session.isPlenumSession %}
+                <td colspan="5">
+                    <div class='td-title'>{{cell.session.title}}</div>
+                </td>
+            {% else %}
+                <td>
+                    <a class='td-title' href="{{cell.session.link}}">{{cell.session.title}}</a>
+                    {% for speaker in cell.speakers %}
+                        <a class='td-subtitle' href="{{speaker.link}}">{{speaker.fullName}}</div>
+                    {% endfor %}
+                </td>
+            {% endif %}
+        {% endfor %} 
+        </tr>
+    {% endfor %}
+
+    </tbody>
+</table>
