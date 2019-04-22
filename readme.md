@@ -1,5 +1,5 @@
 
-## Dev Envinonment Setup
+## Dev Environment Setup
 
 * Install Node.js & NPM
 * Run `npm install` in the project directory to install local dependencies
@@ -9,7 +9,7 @@
 
 ## NPM Scripts
 
-Explaination of the available npm scripts for this project
+Explanation of the available npm scripts for this project
 
 
 ### fetch-data
@@ -33,9 +33,7 @@ directory.  The docs directory is used for deployment to github pages.
 `npm run serve`
 
 This runs the command `npx eleventy --serve` which builds the site, then 
-continues to watch and rebuild the site when file changes are detected.  
+continues to watch and rebuild the site when file changes are detected. 
 It also runs a local webserver and makes the site available at 
 [localhost:8080](http://localhost:8080)
-
-
 
